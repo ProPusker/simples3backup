@@ -1,0 +1,23 @@
+<Backup>
+  <Volume>
+    <Drive>C</Drive>
+    <Task>
+      <Id>Documents</Id>
+      <Path>C:\Users\Admin\Documents</Path>
+      <KeepDays>30</KeepDays>
+    </Task>
+    <Task>
+      <Id>Projects</Id>
+      <Path>C:\Projects</Path>
+      <KeepDays>60</KeepDays>
+    </Task>
+  </Volume>
+  <Volume>
+    <Drive>D</Drive>
+    <Task>
+      <Id>Backups</Id>
+      <Path>D:\Backups</Path>
+      <KeepDays>90</KeepDays>
+    </Task>
+  </Volume>
+</Backup>
